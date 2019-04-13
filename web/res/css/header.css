@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27-Jan-2019, 6:52:32 PM
+    Author     : harma
+*/
+
+a, a:hover{
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.flexcard{
+    display: flex;
+    flex-direction: column;
+}
